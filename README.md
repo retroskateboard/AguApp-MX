@@ -1,5 +1,5 @@
 # AguApp-MX
- AguaApp MX: Final Social Service Project  AguaApp MX is the result of my final social service project carried out at the iOS Development Lab. This innovative mobile application aims to raise awareness and foster responsibility in the use of water in Mexico.
+ AguaApp MX: Final Social Service Project  AguaApp MX is the result of my final social service project carried out at the iOS Development Lab. This innovative mobile application aims to raise awareness and foster responsibility in the use of water in Mexico. Thanks to: @caracoldelmar_ (on IG) for the illustrations.
 
 App:
 
