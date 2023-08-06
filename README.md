@@ -5,6 +5,21 @@
 
 AguApp MX is the result of my final social service project carried out at the iOS Development Lab. This innovative mobile application aims to raise awareness and foster responsibility in the use of water in Mexico, contributing to a sustainable future for our precious resource.
 
+
+## Description
+AguApp MX is an essential tool to promote responsible water consumption and raise awareness about the importance of conserving water resources in Mexico. Through interactive challenges and engaging content, users can learn effective ways to use water wisely and reduce wastage. The app provides personalized tips and recommendations based on users' performance, encouraging a positive impact on water conservation efforts.
+
+Join us in this mission to make a difference and ensure a sustainable future for generations to come. Together, we can protect our most valuable resource - water! 🌊💚
+
+## Acknowledgments
+Special thanks to @caracoldelmar_ (on Instagram) for the beautiful illustrations used in the app.
+
+## Development
+AguApp MX is currently under development and continually evolving to offer the best user experience. Stay tuned for regular updates and new features as we strive to make a lasting impact on water conservation in Mexico
+
+---
+_"Thousands have lived without love, not one without water." - W. H. Auden_
+
 ## App Preview
 
 <!-- Welcome Screen -->
@@ -111,17 +126,3 @@ AguApp MX is the result of my final social service project carried out at the iO
   Habit Created Screen
 </p>
 <!---->
-
-## Description
-AguApp MX is an essential tool to promote responsible water consumption and raise awareness about the importance of conserving water resources in Mexico. Through interactive challenges and engaging content, users can learn effective ways to use water wisely and reduce wastage. The app provides personalized tips and recommendations based on users' performance, encouraging a positive impact on water conservation efforts.
-
-Join us in this mission to make a difference and ensure a sustainable future for generations to come. Together, we can protect our most valuable resource - water! 🌊💚
-
-## Acknowledgments
-Special thanks to @caracoldelmar_ (on Instagram) for the beautiful illustrations used in the app.
-
-## Development
-AguApp MX is currently under development and continually evolving to offer the best user experience. Stay tuned for regular updates and new features as we strive to make a lasting impact on water conservation in Mexico.
-
----
-_"Thousands have lived without love, not one without water." - W. H. Auden_
